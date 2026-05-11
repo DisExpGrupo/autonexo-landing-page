@@ -14,7 +14,7 @@ class SimpleTranslateCompiler implements TranslateCompiler {
 
   compileTranslations(translations: any, lang: string): any {
     return translations;
-  }
+  } 
 }
 
 // Simple parser implementation
